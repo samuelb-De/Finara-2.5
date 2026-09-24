@@ -1,0 +1,8 @@
+{
+  "name": "FinFlow 2.5",
+  "description": "Gestiona tus finanzas personales fácilmente con registros rápidos, reportes claros y control total de tus gastos diarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
